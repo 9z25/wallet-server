@@ -1,0 +1,16 @@
+BIP44 $BCH Wallet
+
+128 bit english BIP32 Mnemonic:
+cream verb canvas talent brain penalty busy young riot pink message hockey
+
+BIP44 Account: "m/44'/145'/0'"
+m/44'/145'/0'/0/0: bitcoincash:qr8pehx4p7qs3rmr02d8xdnv0sx8atcqmsadxmcnr2
+m/44'/145'/0'/0/1: bitcoincash:qzmhvrg683w4654pkecsa8gyzws0dw5h4ufpquptsl
+m/44'/145'/0'/0/2: bitcoincash:qzyx970y5el926vp4eqms05w4jce3yuhk56tg0m402
+m/44'/145'/0'/0/3: bitcoincash:qrea862wg7cv807uxjqsu5et5g7qg7ghqul6ep2zyn
+m/44'/145'/0'/0/4: bitcoincash:qzkspgatfwf2y8lqxwjth2kes9jr37rmcgcpkvnrqd
+m/44'/145'/0'/0/5: bitcoincash:qqe6z8v2ccm04jyzglgnrp0rn4qf7udmlcf43tw7vq
+m/44'/145'/0'/0/6: bitcoincash:qpuag9ky3sr99qgtnvpghuexge7u4yzwpgaukhnvww
+m/44'/145'/0'/0/7: bitcoincash:qp8lcfkzdy5huj3usulgc8v8zm0lqlwc0qlhc5vwwr
+m/44'/145'/0'/0/8: bitcoincash:qrk3rg5hn3ywtw9dujrsslsjmdqjk4qcnve75np54a
+m/44'/145'/0'/0/9: bitcoincash:qp08pl9l256cqwl7hgvsmay8alaeuplytsfdwcducw
